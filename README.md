@@ -6,6 +6,7 @@ Various fonts, converted to plan9 subf.
 
 ### Current fonts
 
+* jmk/: [Neep & Modd](http://www.jmknoble.net/fonts/)
 * kourier/: [Kourier & Ksans](http://www.semware.com/html/tseprofilesr.php#FONTS)
 * mntcarlo/: [MonteCarlo Programmer Font](http://www.bok.net/MonteCarlo/)
 * profont/: [ProFont & Sheldon](http://www.tobias-jung.de/seekingprofont/)
