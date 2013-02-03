@@ -11,6 +11,7 @@ Various fonts, converted to plan9 subf.
 * mntcarlo/: [MonteCarlo Programmer Font](http://www.bok.net/MonteCarlo/)
 * profont/: [ProFont & Sheldon](http://www.tobias-jung.de/seekingprofont/)
 * proggyfnt/: [Proggy Programming Fonts](http://www.proggyfonts.com/)
+* tamsyn/: [Tamsyn - Monospaced Programming Font](http://www.fial.com/~scott/tamsyn-font/)
 * terminus/: [Terminus Font](http://terminus-font.sourceforge.net/)
 * trisk/: [Triskweline](http://www.netalive.org/tinkering/triskweline/)
 * uni-vga/: [UNI-VGA (Unicode VGA font)](http://www.inp.nsk.su/~bolkhov/files/fonts/univga/)
